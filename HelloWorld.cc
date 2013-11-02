@@ -1,6 +1,6 @@
-main()
+# include <iostream>
+ 
+int main()
 {
-    for(;;)
-    {
-        cout << "Hello World! ";
-    }}
+   std::cout << "Hello, world!\n";
+}
